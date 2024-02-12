@@ -38,3 +38,5 @@ function isEligible() {
 
     //console.log(isEligible())
     //document.body.innerHTML = isEligible
+
+    console.log("We're using GIT!");
